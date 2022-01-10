@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.wright.gameoflife3.MainActivity">
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="@string/action_clear"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_small_explosion"
+        android:orderInCategory="100"
+        android:title="@string/action_small_explosion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_explosion"
+        android:orderInCategory="100"
+        android:title="@string/action_explosion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_fish"
+        android:orderInCategory="100"
+        android:title="@string/action_fish"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_glider"
+        android:orderInCategory="100"
+        android:title="@string/action_glider"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ten_in_a_row"
+        android:orderInCategory="100"
+        android:title="@string/action_ten_in_a_row"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_pump"
+        android:orderInCategory="100"
+        android:title="@string/action_pump"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_shooter"
+        android:orderInCategory="100"
+        android:title="@string/action_shooter"
+        app:showAsAction="never" />
+</menu>

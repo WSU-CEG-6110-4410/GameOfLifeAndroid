@@ -1,0 +1,16 @@
+<resources>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="app_name">GameOfLife</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_small_explosion">Small Explosion</string>
+    <string name="action_explosion">Explosion</string>
+    <string name="action_fish">Fish</string>
+    <string name="action_glider">Glider</string>
+    <string name="action_ten_in_a_row">Ten in a row</string>
+    <string name="action_pump">Tumbler</string>
+    <string name="action_shooter">Gosper Glider Gun</string>
+    <string name="slow">Slow</string>
+    <string name="fast">Fast</string>
+    <string name="floatingAction">Change animation speed</string>
+</resources>
